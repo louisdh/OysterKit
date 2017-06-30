@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>classNames</key>
+	<dict>
+		<key>GrammarTest</key>
+		<dict>
+			<key>testPerformanceSTLR()</key>
+			<dict>
+				<key>com.apple.XCTPerformanceMetric_WallClockTime</key>
+				<dict>
+					<key>baselineAverage</key>
+					<real>0.36281</real>
+					<key>baselineIntegrationDisplayName</key>
+					<string>19 Aug 2016, 08:07:36</string>
+				</dict>
+			</dict>
+			<key>testPerformanceSTLRParseOnly()</key>
+			<dict>
+				<key>com.apple.XCTPerformanceMetric_WallClockTime</key>
+				<dict>
+					<key>baselineAverage</key>
+					<real>0.11373</real>
+					<key>baselineIntegrationDisplayName</key>
+					<string>19 Aug 2016, 08:08:38</string>
+				</dict>
+			</dict>
+			<key>testSwiftParserPerformance()</key>
+			<dict>
+				<key>com.apple.XCTPerformanceMetric_WallClockTime</key>
+				<dict>
+					<key>baselineAverage</key>
+					<real>0.39793</real>
+					<key>baselineIntegrationDisplayName</key>
+					<string>22 Aug 2016, 08:24:09</string>
+				</dict>
+			</dict>
+		</dict>
+		<key>LexerTest</key>
+		<dict>
+			<key>testPerformanceOfScan()</key>
+			<dict>
+				<key>com.apple.XCTPerformanceMetric_WallClockTime</key>
+				<dict>
+					<key>baselineAverage</key>
+					<real>0.88986</real>
+					<key>baselineIntegrationDisplayName</key>
+					<string>18 Jul 2016, 19:06:20</string>
+				</dict>
+			</dict>
+			<key>testPerformanceOfScanCharacterInSet()</key>
+			<dict>
+				<key>com.apple.XCTPerformanceMetric_WallClockTime</key>
+				<dict>
+					<key>baselineAverage</key>
+					<real>0.44258</real>
+					<key>baselineIntegrationDisplayName</key>
+					<string>16 Aug 2016, 17:55:39</string>
+				</dict>
+			</dict>
+			<key>testPerformanceOfScanString()</key>
+			<dict>
+				<key>com.apple.XCTPerformanceMetric_WallClockTime</key>
+				<dict>
+					<key>baselineAverage</key>
+					<real>0.711</real>
+					<key>baselineIntegrationDisplayName</key>
+					<string>16 Aug 2016, 17:55:39</string>
+				</dict>
+			</dict>
+		</dict>
+	</dict>
+</dict>
+</plist>

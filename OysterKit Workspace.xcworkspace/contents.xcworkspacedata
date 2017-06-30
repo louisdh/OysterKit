@@ -8,9 +8,6 @@
       location = "group:Examples/Hello World/Hello World.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:iOS/OysterKit/OysterKit iOS.xcodeproj">
-   </FileRef>
-   <FileRef
-      location = "group:Mac/OysterKit/OysterKit Mac.xcodeproj">
+      location = "group:/Users/nhughes/Documents/Code/XCode/Github/OysterKit/Mac/OysterKit/OysterKit Mac.xcodeproj">
    </FileRef>
 </Workspace>

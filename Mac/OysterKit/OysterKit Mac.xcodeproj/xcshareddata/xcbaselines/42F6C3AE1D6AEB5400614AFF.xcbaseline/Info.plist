@@ -4,7 +4,7 @@
 <dict>
 	<key>runDestinationsByUUID</key>
 	<dict>
-		<key>BF48F5BA-FB74-48CC-9755-1A61CFE028D8</key>
+		<key>DEAF1280-78F6-4806-A8C9-AB98C64F16B5</key>
 		<dict>
 			<key>localComputer</key>
 			<dict>
@@ -20,8 +20,6 @@
 				<integer>4</integer>
 				<key>modelCode</key>
 				<string>MacBookPro11,1</string>
-				<key>operatingSystemVersion</key>
-				<string>10.9.4</string>
 				<key>physicalCPUCoresPerPackage</key>
 				<integer>2</integer>
 				<key>platformIdentifier</key>

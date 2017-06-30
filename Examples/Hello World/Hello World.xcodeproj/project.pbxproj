@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		425EBD8C196543F000A1C232 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 425EBD8B196543F000A1C232 /* main.swift */; };
-		F9DCCA571A175F0400FF68BA /* OysterKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F9DCCA561A175F0400FF68BA /* OysterKit.framework */; };
+		42F8C1A81F06600A00E56A34 /* OysterKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 42F8C1A71F06600A00E56A34 /* OysterKit.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -26,7 +26,7 @@
 /* Begin PBXFileReference section */
 		425EBD88196543F000A1C232 /* Hello World */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Hello World"; sourceTree = BUILT_PRODUCTS_DIR; };
 		425EBD8B196543F000A1C232 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
-		F9DCCA561A175F0400FF68BA /* OysterKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OysterKit.framework; path = "../../../../../Library/Developer/Xcode/DerivedData/OysterKit_Workspace-enzmukjavwigvhawxyzvnavgsmxg/Build/Products/Debug/OysterKit.framework"; sourceTree = "<group>"; };
+		42F8C1A71F06600A00E56A34 /* OysterKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OysterKit.framework; path = "../../../../../../../Library/Developer/Xcode/DerivedData/OysterKit_Workspace-gntuctpebrbxgdbkbjjslccaewno/Build/Products/Debug/OysterKit.framework"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -34,7 +34,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F9DCCA571A175F0400FF68BA /* OysterKit.framework in Frameworks */,
+				42F8C1A81F06600A00E56A34 /* OysterKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -44,7 +44,7 @@
 		425EBD7F196543F000A1C232 = {
 			isa = PBXGroup;
 			children = (
-				F9DCCA561A175F0400FF68BA /* OysterKit.framework */,
+				42F8C1A71F06600A00E56A34 /* OysterKit.framework */,
 				425EBD8A196543F000A1C232 /* Hello World */,
 				425EBD89196543F000A1C232 /* Products */,
 			);
@@ -213,6 +213,7 @@
 				EMBEDDED_CONTENT_CONTAINS_SWIFT = YES;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
 			};
 			name = Debug;
 		};
@@ -222,6 +223,7 @@
 				EMBEDDED_CONTENT_CONTAINS_SWIFT = YES;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
 			};
 			name = Release;
 		};
